@@ -1,0 +1,47 @@
+.main {
+  .subtitle {
+    letter-spacing: 3px;
+    font-size: 32px;
+    line-height: 1.5;
+  }
+  .mainImg {
+    width: 641px;
+    height: 442px;
+  }
+  .price {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #636057;
+  }
+  .price-big {
+    color: #494846;
+    font-size: 32px;
+    line-height: 1.5;
+  }
+  .btn-primary2:hover,
+  .btn-primary2:focus,
+  .btn-primary2:active:hover {
+    background-color: brown;
+    border-color: brown;
+    color: #fff;
+  }
+  .btn-outline-secondary {
+    color: rgb(245, 146, 162);
+    background-color: #fff;
+    border-color: rgb(245, 146, 162);
+  }
+  .g-hover:hover,
+  .g-hover:focus,
+  .g-hover:active:hover {
+    color: rgb(175, 46, 68);
+    background-color: pink;
+    border-color: pink;
+  }
+  .aaa:hover,
+  .aaa:focus,
+  .aaa:active:hover {
+    color: rgb(175, 46, 68);
+    background-color: pink;
+    border-color: pink;
+  }
+}

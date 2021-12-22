@@ -1,0 +1,36 @@
+.top {
+  .topbar {
+    background-color: #fff;
+    img {
+      width: 111px;
+      height: 40px;
+    }
+    .nav-link {
+      color: #636057;
+    }
+    .btn {
+      width: 96px;
+      height: 38px;
+    }
+    .loginBtn {
+      color: FF636057;
+    }
+    .registerBtn {
+      color: #858377;
+      background: #fff;
+    }
+  }
+  h5 {
+    font-size: 24px;
+    line-height: 1.5;
+    color: #373a3c;
+  }
+  .progress {
+    height: 5px;
+  }
+}
+
+// footer 開始
+footer {
+  background-color: #494846;
+}
